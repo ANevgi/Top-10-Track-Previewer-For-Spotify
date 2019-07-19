@@ -11,7 +11,8 @@ Add the artist's URI, which can be found via the artist's Spotify page.
 After you hit run, you'll be met with a big list of song names, song previews and song cover arts. The links can then be used to access the data.
 
 # To-do
-- [] Add function of stating the name of an artist and URI is automatically found, so everything can be done via the program.
+- [ ] Add function of stating the name of an artist and URI is automatically found, so everything can be done via the program.
+- [ ] Show a metric for the popularity of the song (at the time) e.g. plays, downloads etc.
 
 # Example
 ![alt-text](https://raw.githubusercontent.com/ANevgi/Top-10-Track-Previewer-For-Spotify/master/Top%2010%20Track%20Previewer%20Result.PNG)
