@@ -18,6 +18,7 @@ After you hit run, you'll be met with a big list of song names, song previews an
 ![alt-text](https://raw.githubusercontent.com/ANevgi/Top-10-Track-Previewer-For-Spotify/master/Top%2010%20Track%20Previewer%20Result.PNG)
 
 First Song (so you can click the links):
+
 Song Name: You Need To Calm Down
 
 Song Preview: https://p.scdn.co/mp3-preview/ddafac48971e46afddb31643680bfe2f6c44e1dc?cid=d8a5ed958d274c2e8ee717e6a4b0971d
