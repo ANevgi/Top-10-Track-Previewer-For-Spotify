@@ -19,8 +19,8 @@ After you hit run, you'll be met with a big list of song names, song previews an
 
 First Song (so you can click the links):
 
-Song Name: You Need To Calm Down
+- Song Name: You Need To Calm Down
 
-Song Preview: https://p.scdn.co/mp3-preview/ddafac48971e46afddb31643680bfe2f6c44e1dc?cid=d8a5ed958d274c2e8ee717e6a4b0971d
+- Song Preview: https://p.scdn.co/mp3-preview/ddafac48971e46afddb31643680bfe2f6c44e1dc?cid=d8a5ed958d274c2e8ee717e6a4b0971d
 
-Song Cover Art: https://i.scdn.co/image/6441b3a54e720b0fab3646c89ef35869d559414d
+- Song Cover Art: https://i.scdn.co/image/6441b3a54e720b0fab3646c89ef35869d559414d
